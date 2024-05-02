@@ -1,3 +1,7 @@
+# this program has 2 faults
+# 1 . check of equations to be solvable
+# 2 . Coefficients problem
+
 import streamlit as st
 import math
 
